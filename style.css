@@ -1,0 +1,25 @@
+body{
+    background-color: #c6c6c6;
+
+    color: black;
+    color: aqua;
+    color: #7fffd4;
+    color: rgb(127, 255, 212);
+
+    /* R - Red
+       G - Green
+       B - Blue */
+color: rgb(red green blue / alpha);
+color: rgb (255);
+/* desliga cores */
+
+    color: hsl(160, 100%, 75%);
+/* trabalha junto com rgb */
+
+    color: hwb(160 50% 0%);
+    color: lab(92.04% -45.52 9.71);
+    
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
